@@ -1,0 +1,41 @@
+.body{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    min-height: 100vh;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-blend-mode: overlay;
+}
+
+.signIn_Box{
+    width: 550px;
+    padding: 40px 30px;
+    border-radius: 20px;
+    background-color: rgb(255, 255, 255. 0.034);
+    border: 2px solid rgb(58, 58, 58);
+}
+
+.sign-out {
+    cursor: pointer;
+}
+
+.patient{
+    margin-top: auto;
+    text-align: end;
+}
+
+.form_box{
+    width: 550px;
+    padding: 40px 30px;
+    border-radius: 20px;
+    background-color: rgb(255, 255, 255. 0.034);
+    border: 2px solid rgb(58, 58, 58);
+}
+
+.add-patient-btn {
+    position: absolute;
+    top: 20px;
+    right: 20px;
+}
